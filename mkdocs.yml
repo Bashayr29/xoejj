@@ -6,7 +6,7 @@ site_author: Thomas Südbröcker
 # Repository
 repo_name: Bashayr29/xoejj
 repo_url: https://github.com/Bashayr29/xoejj
-edit_uri: edit/master/docs
+edit_uri: edit/main/docs
 docs_dir: 'docs'
 
 # Navigation
@@ -33,7 +33,7 @@ theme:
     - navigation.expand
   palette:
     scheme: default
-    primary: blue
+    primary: red
     accent: blue
 
 # Plugins
